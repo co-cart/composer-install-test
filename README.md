@@ -11,7 +11,7 @@
 	&nbsp;|&nbsp;
 	<a href="#version-constraints">Version Constraints</a>
 	&nbsp;|&nbsp;
-	<a href="#example-composer.json">Example composer.json</a>
+	<a href="#example-composerjson">Example composer.json</a>
 	&nbsp;|&nbsp;
 	<a href="#packaging">Packaging</a>
 	&nbsp;|&nbsp;
@@ -26,7 +26,7 @@
 
 ## Add the Repository
 
-Add our repository to your composer.json file:
+Add our repository to your `composer.json` file:
 
 ```json
 "repositories": [
