@@ -27,7 +27,7 @@
     },
     "require-dev" : {
         "rarst/wps": "1.2.0",
-        "wpackagist-plugin/woocommerce": "5.1.0",
+        "wpackagist-plugin/woocommerce": "5.2.0",
         "wpackagist-plugin/woocommerce-services": "*",
         "wpackagist-plugin/woocommerce-payments": "*",
         "wpackagist-plugin/woocommerce-gateway-stripe": "*",
